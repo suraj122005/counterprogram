@@ -1,0 +1,40 @@
+#image{
+    min-height: 100vh;
+    background-image:url('./images/raju.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+
+}
+#myh1{
+    font-size: 5em;
+    color:white;
+    text-align: center;
+}
+#counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    color: aliceblue;
+}
+#buttoncontainer{
+    text-align: center;
+
+}
+.button{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: inset;
+    background-color: chocolate;
+}
+#decreasebtn:hover{
+    background-color: coral;
+}
+#resetbtn:hover{
+    background-color: coral;
+}
+#increasebtn:hover{
+    background-color: coral;
+}
+
+
